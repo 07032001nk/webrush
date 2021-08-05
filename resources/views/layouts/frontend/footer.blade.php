@@ -1,5 +1,5 @@
 
-          <div class="container items-center ">
+          <div class="container items-center border-t-4">
                 <footer class="text-blueGray-700 transition duration-500 ease-in-out transform bg-white ">
                   <div class="container flex flex-col flex-wrap p-8 mx-auto md:items-center lg:items-start md:flex-row md:flex-no-wrap ">
                     <div class="flex-shrink-0 w-64 mx-auto text-center md:mx-0 md:text-left">
