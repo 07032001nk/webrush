@@ -31,6 +31,10 @@ Route::get('/services/advertising', function () {
     return view('frontend.services.advertising');
 });
 
+Route::get('/services/website', function () {
+    return view('frontend.services.website');
+});
+
 // the welcome route
 
 Route::get('/welcome', function () {
